@@ -11,7 +11,7 @@ Features:
   6. FrontEnd: ReactJS, Gulp system
   7. Admin: Bootstrap/H5/Restface
   8. Micro API: Restful and Protobuf support.
-  9. Lots of Applications are comming...
+  9. Lots of Applications are coming...
   
   
   
